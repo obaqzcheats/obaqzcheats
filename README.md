@@ -1,1 +1,5 @@
-yo im obaqzcheats new type shit :)
+```js
+const obaqz = {
+  lovecoding: true
+};
+```
