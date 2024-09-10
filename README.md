@@ -1,5 +1,1 @@
-```js
-const obaqz = {
-  lovecoding: true
-};
-```
+```Let me live 💘```
