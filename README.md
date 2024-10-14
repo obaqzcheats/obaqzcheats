@@ -23,8 +23,10 @@ Im a simple discord js bot dev. Learning most over apis, i mess with some shit. 
 ---
 
 ## 📫 Discords
-[![Discord](https://discord.gg/drex)
-[![Discord (mc)](https://discord.gg/drexinc)
-[![Discord (sniped)](https://discord.gg/sniped)
-[![Discord (caprisun)](https://discord.gg/caprisun)
+
+[![Discord](https://img.shields.io/badge/Join%20Us%20on%20Discord-drex-blue?style=for-the-badge&logo=discord)](https://discord.gg/drex)
+[![Discord (MC)](https://img.shields.io/badge/Join%20MC%20Discord-drexinc-blue?style=for-the-badge&logo=discord)](https://discord.gg/drexinc)
+[![Discord (Sniped)](https://img.shields.io/badge/Join%20Sniped%20Discord-sniped-blue?style=for-the-badge&logo=discord)](https://discord.gg/sniped)
+[![Discord (CapriSun)](https://img.shields.io/badge/Join%20CapriSun%20Discord-caprisun-blue?style=for-the-badge&logo=discord)](https://discord.gg/caprisun)
+
 
