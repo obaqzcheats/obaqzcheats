@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# ObaqzCheats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=obaqzcheats&color=blueviolet)
 
@@ -18,7 +18,7 @@ Im a simple discord js bot dev. Learning most over apis, i mess with some shit. 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obaqzcheats&layout=compact&theme=radical)
 
 ## 🧩 What I'm Learning
-- **Discord api abuse**
+- **Discord versions/most other apis**
 
 ---
 
