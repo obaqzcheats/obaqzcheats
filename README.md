@@ -2,7 +2,6 @@
 **` ⚡ `** **`free obaq ⚡🔫`** **` ⚡ `** **` ⚡ `** **`free obaq ⚡🔫`** **` ⚡ `** **` ⚡ `** **`free obaq ⚡🔫`** **` ⚡ `**
 ![Profile Views](https://komarev.com/ghpvc/?username=obaqzcheats&color=blueviolet)
 
-Im a simple discord js bot dev. Learning most over apis, i mess with some shit. discord.gg/crashing ot
 
 ---
 ## 🔧 Tech Stack
