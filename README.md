@@ -16,6 +16,12 @@ Im a simple discord js bot dev. Learning most over apis, i mess with some shit. 
 
 ## 📫 Discords
 
-[![Discord](https://img.shields.io/badge/Join%20Us%20on%20Discord-drex-blue?style=for-the-badge&logo=discord)](https://discord.gg/crashing)
+< < < < < TERMED > > > > >
+
+< < < < < TERMED > > > > >
+
+< < < < < TERMED > > > > >
+
+< < < < < TERMED > > > > >
 
 
